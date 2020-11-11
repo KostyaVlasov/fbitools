@@ -1,6 +1,6 @@
 {
   "latest": 4.4,
-  "updateurl": "https://raw.githubusercontent.com/WhackerH/kirya/master/fbitools.luac",
+  "updateurl": "https://github.com/KostyaVlasov/scripts/raw/master/fbitools_update.luac",
   "updlist": " — Исправлен баг командного биндера
  — Добавлена полная кастомизация инфобара:
      – Помимо квадрата в инфобаре так же отображается и район, в котором находится игрок
