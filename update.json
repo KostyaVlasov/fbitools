@@ -1,6 +1,5 @@
 {
-  "latest": 4.4,
-  "updateurl": "https://raw.githubusercontent.com/KostyaVlasov/scripts/master/fbitools.lua",
-  "updlist": " — Исправлен баг командного биндера
- — Исправлены баги"
+  "latest": 4.3,
+  "updateurl": "ссылку сюда",
+  "updlist": " — Исправлены баги"
 }
