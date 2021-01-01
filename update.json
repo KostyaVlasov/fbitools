@@ -2,6 +2,7 @@
   "latest": 5.41,
   "updateurl": "https://github.com/KostyaVlasov/scripts/raw/master/fbitools.luac",
   "updlist": "
-  — Исправлена ошибка при занесении в базу данных."
+  — Добавлена функция занесения скриншотов в базу данных
+  — Исправлены мелкие ошибки и баги скрипта."
 }
 
