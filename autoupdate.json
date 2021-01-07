@@ -1,4 +1,4 @@
 {
-  "latest": "Тут вашу версию, версия должна быть больше тут, а в скрипте меньше",
-  "updateurl": "ссылку на скачку самой новой версии"
+  "latest": "6.0",
+  "updateurl": "https://github.com/KostyaVlasov/scripts/raw/master/fbitools.luac"
 }
