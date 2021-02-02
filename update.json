@@ -1,8 +1,8 @@
 {
-  "latest": 5.74,
+  "latest": 5.75,
   "updateurl": "https://github.com/KostyaVlasov/scripts/raw/master/fbitools.luac",
   "updlist": "
-  — Добавил кастомные темы и возможность их изменения
-  — Поправил проверку при команде /fmask и /mask"
+  — Добавлен блокнот /notepad или же через /ft
+  — Исправлены мелкие косяки и баги"
 }
 
