@@ -1,7 +1,8 @@
 {
-  "latest": 6.1,
+  "latest": 6.11,
   "updateurl": "https://github.com/KostyaVlasov/scripts/raw/master/fbitools.luac",
   "updlist": "
+— Фикс скрипта
 — Фикс Авто-БП
 — Продолжение разработки личного кабинета
 — Разработка общем Базы Данных для гос.структор на Clevelend
