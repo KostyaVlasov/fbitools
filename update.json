@@ -1,8 +1,9 @@
 {
-  "latest": 6.13,
+  "latest": 6.14,
   "updateurl": "https://github.com/vl4sov/fbitools/raw/master/fbitools.luac",
   "updlist": "
-— пофикисл скрипт
-— изменил /ticket
+— Пофиксил отображение курсора в imgui
+— Вернул старую систему /mrk
+— Переименовал значение {mark} на {mrk}
 "
 }
